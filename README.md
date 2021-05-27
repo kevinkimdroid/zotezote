@@ -1,6 +1,6 @@
-# flutter_sixvalley_ecommerce
+# flutter_zotezote_ecommerce
 
-A new Flutter setup application for starting a project.
+A new Flutter setup application 
 
 ## Getting Started
 
